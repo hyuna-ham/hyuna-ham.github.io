@@ -42,6 +42,12 @@ layout: page
         {{ post.subtitle | strip_html }}
         </h3>
       {% endif %}
+      
+      {% if post.contents %}
+        <h4 class="post-contents">
+        {{ post.contents | strip_html }}
+        </h4>
+      {% endif %}
     </a>
 
     <p class="post-meta">
