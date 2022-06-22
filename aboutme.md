@@ -4,6 +4,8 @@ title: About Me
 subtitle: Personal Story 
 ---
 
+<div align="center">
+  
 “Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.
 
 But we have no house of our own. In fact, we live in a rented house ($450/month), not by choice – we simply do not have the money. 
@@ -11,7 +13,7 @@ But we have no house of our own. In fact, we live in a rented house ($450/month)
 All they own in this world is $20,000 (our bank account today) because two failures left us with nothing; our house was auctioned off cheap. And *absolutely* everything including my parents’ life savings was gone. Even after every furniture and other assets were sold off, still, we ended up with a $10 million debt. 
 Since then, it was constant “battle”. Yes, our revenue may be impressive as we are in the scale business, but as we make smaller, but exact replica of the port facilities and vessels, some that weigh over 160 tons, it costs a *fortune* to make them. Likewise, at least 90% of the revenue is spent to make these testing facilities, especially since they are high-tech facilities (technology costs significant capital) while the remaining 10% or so of the revenue goes to pay our five employees including our engineers. Thus, it is tough.
 
-But we have each other.{: .text-center }
+But we have each other.
 
 In fact, this only brought us together even more: I say “even more” because these business failures did not change us a bit. We were a very close-knit loving family to begin with; my father, no matter how busy he was working for Samsung, a company known for its long work hours, he made time for us, whenever he could, studying insects together with us, assembling LEGO blocks, carrying out science experiments *together* with us and took us to the science fairs.
 
@@ -24,3 +26,5 @@ At the end of the day, so many lessons were learned; not to lose hope, optimism 
 But the greatest lesson was realizing the power of love. We stuck together because of our love for each other – and also because of our love for *life*. So, today, no matter how tired I am (after an all-nighter), I head out to volunteer. And because I realized the importance of money (how lack of it can hurt a family), I give my 500% to the development of robo-advisor and other advanced financial investment tools to protect the hard-earned money of the petty investors.
 
 **Now, I want more and I need you to grow first.**
+
+</div>
