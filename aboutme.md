@@ -5,9 +5,9 @@ subtitle: Personal Story
 ---
 <center>
  
-“Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.
+<p>“Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.</p>
 
-But we have no house of our own. In fact, we live in a rented house ($450/month), not by choice – we simply do not have the money. 
+<p>But we have no house of our own. In fact, we live in a rented house ($450/month), not by choice – we simply do not have the money.</p>
 
 All they own in this world is $20,000 (our bank account today) because two failures left us with nothing; our house was auctioned off cheap. And *absolutely* everything including my parents’ life savings was gone. Even after every furniture and other assets were sold off, still, we ended up with a $10 million debt. 
 Since then, it was constant “battle”. Yes, our revenue may be impressive as we are in the scale business, but as we make smaller, but exact replica of the port facilities and vessels, some that weigh over 160 tons, it costs a *fortune* to make them. Likewise, at least 90% of the revenue is spent to make these testing facilities, especially since they are high-tech facilities (technology costs significant capital) while the remaining 10% or so of the revenue goes to pay our five employees including our engineers. Thus, it is tough.
