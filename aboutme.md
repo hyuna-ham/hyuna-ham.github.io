@@ -4,7 +4,7 @@ title: About Me
 subtitle: Personal Story 
 ---
 
-“Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System” and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.
+“Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.
 
 But we have no house of our own. In fact, we live in a rented house ($450/month), not by choice – we simply do not have the money. 
 
