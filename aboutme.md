@@ -3,6 +3,7 @@ layout: page
 title: About Me
 subtitle: Personal Story 
 ---
+<center>
  
 “Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s award for transparency and excellence.
 
@@ -24,3 +25,5 @@ At the end of the day, so many lessons were learned; not to lose hope, optimism 
 But the greatest lesson was realizing the power of love. We stuck together because of our love for each other – and also because of our love for *life*. So, today, no matter how tired I am (after an all-nighter), I head out to volunteer. And because I realized the importance of money (how lack of it can hurt a family), I give my 500% to the development of robo-advisor and other advanced financial investment tools to protect the hard-earned money of the petty investors.
 
 **Now, I want more and I need you to grow first.**
+
+ </center>  
