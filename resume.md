@@ -8,7 +8,7 @@ title: Resume
 <center> <h4> +82) 10-9428-0923 | hyunaham0923@gmail.com </h4> </center>
 <br>
 <h3> HIGHLIGTS </h3>
-<hr color="black" size="50px">
+<hr color="black">
 <ul>
   <li><strong><u>Combination of excellent education with field experience in Fintech</u></strong></li>
   <li><strong>Research Interests:</strong> Financial Markets, Behavior Finance, and Fintech</li>
@@ -17,9 +17,10 @@ title: Resume
     including launching the first-ever discretionary robo-advisor service and thematic ETF house in South Korea</li>
   <li><strong>Teamwork and communication skills:</strong> collaborated with a cross-functional team and contributed to the successful launch of services</li>  
 </ul>
-<hr color="black" size="50px">
+<hr color="black">
 <br>
 <h3> EDUCATION </h3>
-<hr color="black" size="50px">
+<hr color="black"">
+
 
 
