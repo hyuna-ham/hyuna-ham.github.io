@@ -15,6 +15,6 @@ title: Resume
   <li>Research Ability – Published papers in Q1 journals (SSCI), and continue research on finance and AI</li>
   <li>Professional Experience – Built 5 years of field experience in leading Fintech companies, 
     including launching the first-ever discretionary robo-advisor service and thematic ETF house in South Korea</li>
-  • Teamwork and communication skills – Collaborated with a cross-functional team and contributed to the successful launch of services</li>  
+  <li>Teamwork and communication skills – Collaborated with a cross-functional team and contributed to the successful launch of services</li>  
 </ul>
 
