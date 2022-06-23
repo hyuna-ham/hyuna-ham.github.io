@@ -17,4 +17,7 @@ title: Resume
     including launching the first-ever discretionary robo-advisor service and thematic ETF house in South Korea</li>
   <li>Teamwork and communication skills: collaborated with a cross-functional team and contributed to the successful launch of services</li>  
 </ul>
+<hr>
+<br>
+<h3> EDUCATION </h3>
 
