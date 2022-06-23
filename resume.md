@@ -8,7 +8,7 @@ title: Resume
 <center> <h4> +82) 10-9428-0923 | hyunaham0923@gmail.com </h4> </center>
 <br>
 <h3> HIGHLIGTS </h3>
-<hr>
+<hr size="10px">
 <ul>
   <li><strong><u>Combination of excellent education with field experience in Fintech</u></strong></li>
   <li><strong><u>Research Interests:</u></strong> Financial Markets, Behavior Finance, and Fintech</li>
