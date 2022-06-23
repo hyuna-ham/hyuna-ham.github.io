@@ -9,7 +9,7 @@ title: Resume
 <br>
 <h3> HIGHLIGTS </h3>
 <hr>
-<hr>
+<hr color="black" size="10px">
 <ul>
   <li><strong><u>Combination of excellent education with field experience in Fintech</u></strong></li>
   <li><strong><u>Research Interests:</u></strong> Financial Markets, Behavior Finance, and Fintech</li>
