@@ -16,7 +16,7 @@ author: Hyuna Ham
 navbar-links:
   About Me: "aboutme"
   Study Objective: "sop"
-  Projects: "works"
+  #Projects: "works"
   Resume: "resume"
 
 # --- Logo --- #
