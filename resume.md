@@ -3,7 +3,8 @@ layout: page
 title: Resume 
 ---
 <style>  
-dt {font-size: 24px; font-weight: bold}  
+dt {font-size: 24px; font-weight: bold}
+    
 </style>  
         
 <center> <h1> Hyuna Ham </h1> </center>
