@@ -2,7 +2,10 @@
 layout: page
 title: Resume 
 ---
-
+<style>  
+h3 {color:green; font-size: 20px}  
+</style>  
+        
 <center> <h1> Hyuna Ham </h1> </center>
 
 <center> <h4> +82) 10-9428-0923 | hyunaham0923@gmail.com </h4> </center>
@@ -21,13 +24,13 @@ title: Resume
 <br>
 <h3> EDUCATION </h3>
 <hr color="black">
- <dt>Skills</dt>
-            <dd>
-                <h2>Office skills</h2>
-                <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
-                
-                <h2>Computer skills</h2>
-                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
-            </dd>
+<dt>Skills</dt>
+<dd>
+    <h2>Office skills</h2>
+    <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
+
+    <h2>Computer skills</h2>
+    <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
+</dd>
 
 
