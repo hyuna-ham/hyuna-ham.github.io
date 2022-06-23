@@ -11,7 +11,7 @@ dt {font-size: 24px; font-weight: bold}
 
 <center> <h4> +82) 10-9428-0923 | hyunaham0923@gmail.com </h4> </center>
 <br>
-<h3> HIGHLIGTS </h3>
+<dt> HIGHLIGTS </dt>
 <hr color="black">
 <ul>
   <li><strong><u>Combination of excellent education with field experience in Fintech</u></strong></li>
