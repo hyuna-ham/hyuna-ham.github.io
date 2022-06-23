@@ -20,7 +20,14 @@ title: Resume
 <hr color="black">
 <br>
 <h3> EDUCATION </h3>
-<hr color="black"">
-
+<hr color="black">
+ <dt>Skills</dt>
+            <dd>
+                <h2>Office skills</h2>
+                <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
+                
+                <h2>Computer skills</h2>
+                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
+            </dd>
 
 
