@@ -10,7 +10,7 @@ title: Resume
 <h2> HIGHLIGTS </h2>
 <hr>
 <ul>
-  <li>Research Interests – Financial Markets, Behavior Finance, and Financial Technology</li>
+  <li>Research Interests: Financial Markets, Behavior Finance, and Financial Technology</li>
   <li>Combination of excellent education with field experience at a leading Fintech company</li>
   <li>Research Ability – Published papers in Q1 journals (SSCI), and continue research on finance and AI</li>
   <li>Professional Experience – Built 5 years of field experience in leading Fintech companies, 
