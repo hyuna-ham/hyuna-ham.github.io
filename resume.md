@@ -11,11 +11,11 @@ title: Resume
 <hr color="black" size="10px">
 <ul>
   <li><strong><u>Combination of excellent education with field experience in Fintech</u></strong></li>
-  <li><strong><u>Research Interests:</u></strong> Financial Markets, Behavior Finance, and Fintech</li>
-  <li><strong><u>Research Ability:</u></strong> published papers in Q1 journals (SSCI) </li>
-  <li><strong><u>Professional Experience:</u></strong> built 5 years of field experience in Fintech companies, 
+  <li><strong>Research Interests:</strong> Financial Markets, Behavior Finance, and Fintech</li>
+  <li><strong>Research Ability:</strong> published papers in Q1 journals (SSCI) </li>
+  <li><strong>Professional Experience:</strong> built 5 years of field experience in Fintech companies, 
     including launching the first-ever discretionary robo-advisor service and thematic ETF house in South Korea</li>
-  <li><strong><u>Teamwork and communication skills:</u></strong> collaborated with a cross-functional team and contributed to the successful launch of services</li>  
+  <li><strong>Teamwork and communication skills:</strong> collaborated with a cross-functional team and contributed to the successful launch of services</li>  
 </ul>
 <hr>
 <br>
