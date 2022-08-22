@@ -3,8 +3,6 @@ layout: page
 title: Study Objective
 subtitle: Statement of Purpose 
 ---
-
-<center>
  
 <p>My company is a good company. Born as the first generation Robo-Advisor company in Korea seven years ago, we sustained our leading position as the No. 1 Robo-Advisor company in Korea although there are many such companies today.</p>
  
@@ -32,5 +30,3 @@ subtitle: Statement of Purpose
 <p>I need you for all these research topics. Once I realize all that I wish to achieve at your school, I will be ready for my goal of carrying out joint studies as a professor with my fiancé of seven years. As we have      shared this goal, he also applied to another department of your school to specialize in Statistics and Machine Learning. </p>
 
 <p>Please grant me the lifetime opportunity to study this field that I am passionate about. Meanwhile, I do believe that my experiences to this day equipped me with the necessary academic competence to excel in my Ph.D. studies. For one, teamwork amidst a highly diverse setting is my forte after having collaborated with so many different professionals. From a BCG consultant, engineers from Samsung Electronics, computer geniuses, a Princeton-educated physicist to a Stanford History Ph.D. graduate, I worked with them day and night to develop algorithms to launch Korea’s first Robo-Advisor. And as someone who tasted growth (and success) of a company (I joined when we were only 20; now we have over 100 employees) while leading many projects, I have a good feel for replicating success. But more than anything, my passion – the same passion that drove me to rush to a library or a café after a long day at work to work on my papers – comes from my powerful motivation to help people and businesses enjoy financial stability and prosperity alike through finance.</p>
-
-</center>
