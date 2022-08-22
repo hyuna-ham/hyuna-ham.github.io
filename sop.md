@@ -10,9 +10,7 @@ subtitle: Statement of Purpose
  
 <p>In sum, working for my company is truly fulfilling - and yes fun.</p>
  
-<p>But we are in the red every year. We live off the $100 million investment we attracted only because of our investors’ vote of confidence in our potential. Likewise, I want to contribute to realizing this <em>potential</em>. And I see a huge potential because all the business areas that we are present in are just starting to take their first steps (I believe that only 0.0000001% of all that we can achieve is realized today). All that we can achieve years down the road, some of them perhaps may sound like something out of a science fiction movie, but I know that they will indeed get realized. </p> 
-
-<p>The question is <em>when</em>.</p>
+<p>But we are in the red every year. We live off the $100 million investment we attracted only because of our investors’ vote of confidence in our potential. Likewise, I want to contribute to realizing this <em>potential</em>. And I see a huge potential because all the business areas that we are present in are just starting to take their first steps (I believe that only 0.0000001% of all that we can achieve is realized today). All that we can achieve years down the road, some of them perhaps may sound like something out of a science fiction movie, but I know that they will get realized. The question is <em>when</em>.</p>
 
 <p>And in many ways, I have tried to help accelerate the advent of a truly Fintech era also because of sheer passion for finance. As such, every single line on my resume is consistent; my bachelor’s degree in finance, master’s in financial engineering, five year long work experience in Fintech, while all my research papers are related to “finance” and “AI” as it pertains to finance.</p>
  
