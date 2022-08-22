@@ -6,7 +6,7 @@ subtitle: Statement of Purpose
  
 <p>My company is a good company. Born as the first generation Robo-Advisor company in Korea seven years ago, we sustained our leading position as the No. 1 Robo-Advisor company in Korea although there are many such companies today.</p>
  
-<p>What differentiates us, however, is our progressiveness DNA. Founded by a former Boston Consulting Group (BCG) consultant, who is an open-minded, progressive-thinking CEO, we are always preparing for the future by encouraging R&D of the latest, state-of-the-art technologies. Our motto is simple; “try as many times as you want, and it is perfectly fine to fail if you bounce back right away”. As such, very often than not, I felt as if I am working for a research lab, almost like I am a graduate student: <br>In fact, five out of my six papers were authored while working for this for-a-profit company.</p>
+<p>What differentiates us, however, is our progressiveness DNA. Founded by a former Boston Consulting Group (BCG) consultant, who is an open-minded, progressive-thinking CEO, we are always preparing for the future by encouraging R&D of the latest, state-of-the-art technologies. Our motto is simple; “try as many times as you want, and it is perfectly fine to fail if you bounce back right away”. As such, very often than not, I felt as if I am working for a research lab, almost like I am a graduate student: In fact, five out of my six papers were authored while working for this for-a-profit company.</p>
  
 <p>In sum, working for my company is truly fulfilling - and yes fun.</p>
  
