@@ -3,7 +3,7 @@ layout: post
 title: HxNet  
 subtitle: Characteristics of extended hour trading returns when intraday returns increase
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/HxBlock.png
 share-img: /assets/img/path.jpg
 ---
 
