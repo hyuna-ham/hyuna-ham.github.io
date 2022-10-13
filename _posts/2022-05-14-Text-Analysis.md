@@ -29,17 +29,10 @@ We analyzed stocks listed on the New York Stock Exchange, the American Stock Exc
 We conducted a sentiment analysis of disclosure documents using FinBERT. The results are grouped according to announcement dates and fiscal quarters. Using the results from FinBERT, we verify the proposed hypotheses.
 
 **2.2 Methodology** <br>
-As demonstrated below, we will design a model to learn the nonlinear relationship between extended hour trading and intraday returns and find the significance of variables in the intraday return direction by adding attention to a deep learning structure. This model uses convolution layers that have the advantage of capturing features and adds an attention module for easy interpretation of results (which can be developed through experiments). I construct an attention structure as a module that has scalability to add it anywhere between neural network layers. This model is compared to existing models, such as regression and Convolutional Neural Networks, to evaluate its performance and determine the important features of the time-series for predicting future daytime trading session returns through attention weight.
-
-![hxblock](/assets/img/intext_hxblock.PNG) <br>
+To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
 
-### Appendix: Easy explanation on the concept of attention <br>
-Attention is a machine-learning method that mimics human attention and refers to crucial input parts. The methods used for attention have been extensive. You may refer to the photos below by Xu et al. (2015) for an in-depth understanding. The images show that the focus is placed on shapes corresponding to the underlined words. Thus, attention is a method of letting a model concentrate on and refer to parts that are crucial for prediction.
 
-![xu2015](/assets/img/xu2015.png)
-
-The decoder refers to the entire input sentence in the encoder at every time step when predicting the output. Bahdanau et al. (2014) develop a model to learn efficiently by focusing more related words on the word to be predicted at that point among the words in the encoder, rather than referring to the entire input sentence with the same importance. They suggest the following process. First, when the input is fed into the decoder, the attention score is calculated from the current hidden states of the encoder (there are various methods such as dot-product attention). Then, the score is normalized to 1 via softmax and a weighted sum is obtained by multiplying it to the hidden state of the encoder. The result of the attention value is called a context vector because it contains an encoder context. Attention is linked to the current hidden state of the decoder, so that we can evaluate the important features (words) for the prediction. <br><br>
 
 ### References
 Akbas, F., Boehmer, E., Jiang, C., & Koch, P.D., 2022. Overnight returns, daytime reversals, and future stock returns. _Journal of Financial Economics_ 145, 850-875.
