@@ -34,7 +34,7 @@ _Hypothesis 1: Better (worse) financial indicators will lead to a positive (nega
 
 Narratives of financial reports provide investors withare for investors to a better understanding of the understand financial indicators. Thus, in a normal situationssituations, tones of financial indicators and the financial report tone should be in have a positive relationship. To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
-$$ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $$
+$ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $
 
 where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; _Senti_ is the sentiment score of the corporate reports from FinBERT; and _ε_ denotes the error term.
 
@@ -43,7 +43,7 @@ _
 
 According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, I analyze the relationship between the differences in the tone of public announcements and market responses as follows:
 
-$$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
+$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $
 
 where _CAV[0,3]_ represents the cumulative abnormal volume for three days, starting from the reporting date; _SentiDiff_ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
 
