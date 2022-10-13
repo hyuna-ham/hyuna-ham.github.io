@@ -50,22 +50,30 @@ $ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot
 where _CAV[0,3]_ represents the cumulative abnormal volume for three days, starting from the reporting date; _SentiDiff_ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
 
 ### References
-Akbas, F., Boehmer, E., Jiang, C., & Koch, P.D., 2022. Overnight returns, daytime reversals, and future stock returns. _Journal of Financial Economics_ 145, 850-875.
+Abrahamson, E., & Amir, E. (1996). The information content of the president's letter to shareholders. _Journal of Business Finance and Accounting_, 23, 1157-1182.
 
-Berkman, H., Koch, P.D., Tuttle, L., & Zhang, Y.J., 2012. Paying attention: Overnight returns and the hidden cost of buying at the open. _Journal of Financial and Quantitative Analysis_ 47, 715-741.
+Bochkay, K., Brown, S. V., Leone, A. J., & Tucker, J. W. (2022). Textual analysis in accounting: What’s Next? _Working Paper_.
 
-Cox, D.R., & Peterson, D.R., 1994. Stock returns following large one‐day declines: Evidence on short‐term reversals and longer‐term performance. _Journal of Finance_ 49, 255-267.
+Bochkay, K., Hales, J., & Chava, S. (2020). Hyperbole or reality? Investor response to extreme language in earnings conference calls. _Accounting Review_, 95 (2), 31-60.
 
-Ferreira, F.G.D.C., Gandomi, A.H., & Cardoso, R.T.N., 2021. Artificial intelligence applied to stock market trading: A review. _IEEE Access_ 9, 30898-30917.
+Brown, N. C., Crowley, R. M., & Elliott, W. B. (2020). What are you saying? Using topic to detect financial misreporting. _Journal of Accounting Researc_h, 58 (1), 237-291.
 
-Ham, H., Ryu, D., & Webb, R.I., 2022. The effects of overnight events on daytime trading sessions. _International Review of Financial Analysis_ 83, 102228.
+De Bondt, W. F., & Thaler, R. (1985). Does the stock market overreact? _Journal of finance_, 40 (3), 793-805.
 
-Levi, S., Livnat, J., Zhang, L., & Zhang, X.-J., 2018. Is extended-hours trading indicative of subsequent returns? _Journal of Investing_ 27, 9-19.
+Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. _arXiv:1810.04805_.
 
-Lou, D., Polk, C., & Skouras, S., 2019. A tug of war: Overnight versus intraday expected returns. _Journal of Financial Economics_ 134, 192-213.
+Feldman, R., Govindaraj, S., Livnat, J., & Segal, B. (2010). Management’s tone change, post earnings announcement drift and accruals. _Review of Accounting Studies_, 15 (4), 915-953.
 
-Obthong, M., Tantisantiwong, N., Jeamwatthanachai, W., & Wills, G., 2020. A survey on machine learning for stock price prediction: Algorithms and techniques. 2nd International Conference on Finance, Economics, _Management and IT Business_, 63-71.
+Hartmann, J., Heitmann, M., Siebert, C., & Schamp, C. (2022). More than a Feeling: Accuracy and Application of Sentiment Analysis. _International Journal of Research in Marketing_.
 
-Park, J., 1995. A market microstructure explanation for predictable variations in stock returns following large price changes. _Journal of Financial and Quantitative Analysis_ 30, 241-256.
+Henry, E. (2008). Are investors influenced by how earnings press releases are written? _Journal of Business Communication_, 45 (4), 363-407.
 
-Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y., 2015. Show, attend and tell: Neural image caption generation with visual attention. _Proceedings of the 32nd International Conference on Machine Learning_, 2048-2057.
+Huang, A., Wang, H., & Yang, Y. (2022). FinBERT—A Large Language Model Approach to Extracting Information from Financial Text. _Working Paper_.
+
+Ingram, R. W., & Frazier, K. B. (1983). Narrative disclosures in annual reports. _Journal of Business Research_, 11 (1), 49-60.
+
+Kothari, S. P., Li, X., & Short, J. E. (2009). The effect of disclosures by management, analysts, and business press on cost of capital, return volatility, and analyst forecasts: A study using content analysis. _Accounting Review_, 84 (5), 1639-1670.
+
+Li, F. (2010). The information content of forward‐looking statements in corporate filings—A naïve Bayesian machine learning approach. _Journal of Accounting Research_, 48 (5), 1049-1102.
+
+Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). Supervised and unsupervised neural approaches to text readability. _Computational Linguistics_, 47 (1), 141-179.
