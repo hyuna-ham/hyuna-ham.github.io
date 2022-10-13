@@ -31,7 +31,7 @@ We conducted a sentiment analysis of disclosure documents using FinBERT. The res
 **2.2 Methodology** <br>
 To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
-$ FI_j = \alpha_{senti} + \beta_{senti}∙Senti + ε$, (1)
+$$ FI_j = \alpha_{senti} + \beta_{senti}∙Senti + ε$$, (1)
 
 
 ### References
