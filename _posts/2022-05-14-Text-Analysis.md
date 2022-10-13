@@ -32,9 +32,7 @@ We conducted a sentiment analysis of disclosure documents using FinBERT. The res
 
 _Hypothesis 1: Better (worse) financial indicators will lead to a positive (negative) financial report tone._
 
-Narratives of financial reports provide investors withare for investors to a better understanding of the understand financial indicators. Thus, in a normal situationssituations, tones of financial indicators and the financial report tone should be in have a positive relationship.
-
-To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
+Narratives of financial reports provide investors withare for investors to a better understanding of the understand financial indicators. Thus, in a normal situationssituations, tones of financial indicators and the financial report tone should be in have a positive relationship. To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
 $$ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $$
 
