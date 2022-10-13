@@ -41,7 +41,7 @@ where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, 
 _Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators.
 _
 
-According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, we analyzed the relationship between the differences in the tone of public announcements and market responses as follows:
+According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, I analyze the relationship between the differences in the tone of public announcements and market responses as follows:
 
 $$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
 
