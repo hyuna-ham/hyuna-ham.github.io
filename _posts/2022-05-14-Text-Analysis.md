@@ -34,7 +34,7 @@ _Hypothesis 1: Better (worse) financial indicators will lead to a positive (nega
 
 Narratives of financial reports provide investors withare for investors to a better understanding of the understand financial indicators. Thus, in a normal situationssituations, tones of financial indicators and the financial report tone should be in have a positive relationship. To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
-<img src="http://latex.codecogs.com/svg.latex? FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε,"/>
+<img src="http://latex.codecogs.com/svg.latex? FI_{j} = \alpha_{Senti} + \beta_{Senti} Senti + ε,"/>
 
 $ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $
 
