@@ -2,9 +2,9 @@
 layout: post
 title: Text Analysis 
 subtitle: Tone in Financial Disclosures
-cover-img: /assets/img/chart.jpg
+cover-img: /assets/img/language.png
 thumbnail-img: /assets/img/sentiment.png
-share-img: /assets/img/hxblock.png
+share-img: /assets/img/sentiment.png
 ---
 
 ### 1. Introduction <br>
