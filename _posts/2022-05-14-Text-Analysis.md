@@ -33,6 +33,8 @@ To discover the relationship between financial indicators and sentiment scores, 
 
 $$ FI_{j} = \alpha_{senti} + \beta_{senti} \cdot Senti + ε$$
 
+where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; _Senti_ is the sentiment score of the corporate reports from FinBERT; and _ε_ denotes the error term.
+
 
 ### References
 Akbas, F., Boehmer, E., Jiang, C., & Koch, P.D., 2022. Overnight returns, daytime reversals, and future stock returns. _Journal of Financial Economics_ 145, 850-875.
