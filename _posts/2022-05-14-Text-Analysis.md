@@ -36,7 +36,7 @@ Narratives of financial reports provide investors withare for investors to a bet
 
 <img src="http://latex.codecogs.com/svg.latex? FI_{j} = \alpha_{Senti} + \beta_{Senti} Senti + ε,"/>
 
-$ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $
+$$ 'FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε,' $$
 
 where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; _Senti_ is the sentiment score of the corporate reports from FinBERT; and _ε_ denotes the error term.
 
