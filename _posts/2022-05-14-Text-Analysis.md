@@ -28,13 +28,26 @@ We analyzed stocks listed on the New York Stock Exchange, the American Stock Exc
 
 We conducted a sentiment analysis of disclosure documents using FinBERT. The results are grouped according to announcement dates and fiscal quarters. Using the results from FinBERT, we verify the proposed hypotheses.
 
-**2.2 Methodology** <br>
+**2.2 Hypotheses and Methodology** <br>
+
+_Hypothesis 1: Better (worse) financial indicators will lead to a positive (negative) financial report tone._
+
+Narratives of financial reports provide investors withare for investors to a better understanding of the understand financial indicators. Thus, in a normal situationssituations, tones of financial indicators and the financial report tone should be in have a positive relationship.
+
 To discover the relationship between financial indicators and sentiment scores, the following analysis was conducted:
 
-$$ FI_{j} = \alpha_{senti} + \beta_{senti} \cdot Senti + ε$$
+$$ FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε, $$
 
 where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; _Senti_ is the sentiment score of the corporate reports from FinBERT; and _ε_ denotes the error term.
 
+_Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators.
+_
+
+According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, we analyzed the relationship between the differences in the tone of public announcements and market responses as follows:
+
+$$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
+
+where _CAV[0,3]_ represents the cumulative abnormal volume for three days, starting from the reporting date; _SentiDiff_ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
 
 ### References
 Akbas, F., Boehmer, E., Jiang, C., & Koch, P.D., 2022. Overnight returns, daytime reversals, and future stock returns. _Journal of Financial Economics_ 145, 850-875.
