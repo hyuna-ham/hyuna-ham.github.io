@@ -7,14 +7,22 @@ thumbnail-img: /assets/img/sentiment.png
 share-img: /assets/img/sentiment.png
 ---
 
-<script
+<!-- <script
 	type="text/javascript"
     async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML"
 ></script>
+ -->
 
-\[\sum_{n=1}^{100} {n}\]
-
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax:
+		{inlineMath: [['$','$'], ['\\(','\\)']],
+		 displayMath: [ ['$$','$$'], ["\\[","\\]"] ], 
+            	 processEscapes: true }
+		 });
+</script>
+<script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ### 1. Introduction <br>
 
