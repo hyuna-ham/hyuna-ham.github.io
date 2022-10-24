@@ -7,6 +7,15 @@ thumbnail-img: /assets/img/sentiment.png
 share-img: /assets/img/sentiment.png
 ---
 
+<script
+	type="text/javascript"
+    async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML"
+></script>
+
+\[\sum_{n=1}^{100} {n}\]
+
+
 ### 1. Introduction <br>
 
 **1.1 Literature Review** <br>
