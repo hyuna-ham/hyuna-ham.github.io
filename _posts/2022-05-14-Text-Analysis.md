@@ -48,8 +48,7 @@ $$ 'FI_{j} = \alpha_{Senti} + \beta_{Senti} \cdot Senti + ε,' $$
 
 where $FI_{j}$ is a financial indicator $j$ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; $Senti$ is the sentiment score of the corporate reports from FinBERT; and $ε$ denotes the error term.
 
-_Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators.
-_
+_Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators._
 
 According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, I analyze the relationship between the differences in the tone of public announcements and market responses as follows:
 
