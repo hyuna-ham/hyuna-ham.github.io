@@ -7,13 +7,6 @@ thumbnail-img: /assets/img/sentiment.png
 share-img: /assets/img/sentiment.png
 ---
 
-<!-- <script
-	type="text/javascript"
-    async
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML"
-></script>
- -->
-
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax:
@@ -53,7 +46,7 @@ Narratives of financial reports provide investors withare for investors to a bet
 
 $$ 1 + 2 = C $$
 
-where $FI_{j}$ is a financial indicator _j_ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; _Senti_ is the sentiment score of the corporate reports from FinBERT; and _ε_ denotes the error term.
+where $FI_{j}$ is a financial indicator $j$ in return on equity, current ratio, sales growth, debt-to-equity ratio, and asset turnover; $Senti$ is the sentiment score of the corporate reports from FinBERT; and $ε$ denotes the error term.
 
 _Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators.
 _
@@ -62,7 +55,7 @@ According to De Bondt and Thaler (1985), people tend to overreact to “unexpect
 
 $$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
 
-where _CAV[0,3]_ represents the cumulative abnormal volume for three days, starting from the reporting date; _SentiDiff_ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
+where $CAV[0,3]$ represents the cumulative abnormal volume for three days, starting from the reporting date; $SentiDiff$ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
 
 ### References
 Abrahamson, E., & Amir, E. (1996). The information content of the president's letter to shareholders. _Journal of Business Finance and Accounting_, 23, 1157-1182.
