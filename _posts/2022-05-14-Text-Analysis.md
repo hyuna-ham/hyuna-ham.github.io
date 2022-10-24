@@ -54,7 +54,7 @@ According to De Bondt and Thaler (1985), people tend to overreact to “unexpect
 
 $$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
 
-where $CAV[0,3]$ represents the cumulative abnormal volume for three days, starting from the reporting date; $SentiDiff$ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020).
+where $CAV[0,3]$ represents the cumulative abnormal volume for three days, starting from the reporting date; $SentiDiff$ is the difference between the current sentiment and previous scores; and $Controls_{v}$ includes all the control variables considered in Bochkay, Hales, and Chava (2020). <br>
 
 ### References
 Abrahamson, E., & Amir, E. (1996). The information content of the president's letter to shareholders. _Journal of Business Finance and Accounting_, 23, 1157-1182.
