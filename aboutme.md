@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Personal Story 
 ---
-<center>
+<!-- <center> -->
  
 <p>“Hydrodynamic test facilities for wave basin and towing tanks”, “Towing Carriage System”, and “Blasting Robot” – these are the products that my family business, a company that my parents founded that tests vessels before they are actually sent off to the ocean, make. My father is the CEO, and our revenue amounts to at least $3 million per annum. The company even won the Republic of Korea President’s Award for transparency and excellence.</p>
 
@@ -25,4 +25,4 @@ subtitle: Personal Story
 
 <p><strong>Now, I want more and I need you to grow first.</strong></p>
 
- </center>  
+<!--  </center>   -->
