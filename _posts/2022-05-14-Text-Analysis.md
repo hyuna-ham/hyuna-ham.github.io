@@ -34,9 +34,7 @@ This study unveils the relationship between financial indicators and narrative d
 ### 2. Data and Methodology <br>
 
 **2.1 Data** <br>
-We analyzed stocks listed on the New York Stock Exchange, the American Stock Exchange, and the National Association of Securities Dealers Automated Quotations. We gathered the daily rates of return and financial indicators of individual companies and reported data published in Bloomberg. We collected annual and quarterly filings, financial analyst reports, and the earnings conference call transcripts of individual companies from the SEC’s EDGAR website, Thomson Investext database, and SeekingAlpha website. In addition, we harnessed FinBERT from Huang, Wang, and Yang (2022) for sentiment analysis. FinBERT is trained with 2.5B tokens of corporate reports 10-K and 10-Q; 1.3B tokens of earnings call transcripts; and 1.1B tokens of analyst reports with 10,000 sentences labeled as positive, neutral, and negative.
-
-We conducted a sentiment analysis of disclosure documents using FinBERT. The results are grouped according to announcement dates and fiscal quarters. Using the results from FinBERT, we verify the proposed hypotheses.
+This study analyzes stocks listed on the New York Stock Exchange, the American Stock Exchange, and the National Association of Securities Dealers Automated Quotations. The daily rates of return and financial indicators of individual companies and reported data will be collected from Bloomberg. Addtionally, it will collect annual and quarterly filings, financial analyst reports, and the earnings conference call transcripts of individual companies from the SEC’s EDGAR website, Thomson Investext database, and SeekingAlpha website. Furthermore, FinBERT (Huang, Wang, and Yang, 2022) will be used for sentiment analysis, which is trained with 2.5B tokens of corporate reports 10-K and 10-Q; 1.3B tokens of earnings call transcripts; and 1.1B tokens of analyst reports with 10,000 sentences labeled as positive, neutral, and negative. The results will be grouped according to announcement dates and fiscal quarters. 
 
 **2.2 Hypotheses and Methodology** <br>
 
@@ -50,7 +48,7 @@ where $FI_{j}$ is a financial indicator $j$ in return on equity, current ratio, 
 
 _Hypothesis 2: Larger differences from previous public announcements result in louder investor responses, even when controlling for changes in financial indicators._
 
-According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, I analyze the relationship between the differences in the tone of public announcements and market responses as follows:
+According to De Bondt and Thaler (1985), people tend to overreact to “unexpected and dramatic news.” Consequently, investors may respond louder when public announcement tones show a larger difference between the current sentiment and the previous scores of previous public announcements. Therefore, the relationship between the differences in the tone of public announcements and market responses is analyzed as follows:
 
 $$ CAV[0,3] = \alpha_{SentiDiff}+\beta_{SentiDiff} \cdot SentiDiff + \sumγ \cdot Controls_{v} + ε, $$
 
