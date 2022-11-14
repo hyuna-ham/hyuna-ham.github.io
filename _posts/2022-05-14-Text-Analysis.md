@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Text analysis 
-subtitle: Tone in Financial Disclosures
+subtitle: Tone in financial disclosures
 cover-img: /assets/img/language.png
 thumbnail-img: /assets/img/sentiment.png
 share-img: /assets/img/sentiment.png
