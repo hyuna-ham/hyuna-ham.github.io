@@ -21,7 +21,7 @@ subtitle: Personal Story
 
 <p>At the end of the day, so many lessons were learned; not to lose hope, optimism, and that fiery grit to overcome. My parents did not quit even when they had failed in their 40s, and although our assets are almost zero, still they take solace in zero debt as we paid it off after years of hard work.</p>
 
-<p>But the greatest lesson was realizing the power of love. We stuck together because of our love for each other – and also because of our love for <em>life</em>. So, today, no matter how tired I am (after an all-nighter), I head out to volunteer. And because I realized the importance of money (how lack of it can hurt a family), I give my 500% of my effort to the development of Robo-Advisor and other advanced financial investment tools to protect the hard-earned money of the small investors.</p>
+<p>But the greatest lesson was realizing the power of love. We stuck together because of our love for each other – and also because of our love for <em>life</em>. So, today, no matter how tired I am (after an all-nighter), I head out to volunteer. And because I realized the importance of money (how lack of it can hurt a family), I give my 100% of my effort to the development of Robo-Advisor and other advanced financial investment tools to protect the hard-earned money of the small investors.</p>
 
 <p><strong>Now, I want more and I need you to grow first.</strong></p>
 
