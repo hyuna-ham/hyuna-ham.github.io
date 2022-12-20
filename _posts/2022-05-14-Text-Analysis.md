@@ -81,7 +81,7 @@ Kothari, S. P., Li, X., & Short, J. E. (2009). The effect of disclosures by mana
 
 Li, F. (2010). The information content of forward‐looking statements in corporate filings—A naïve Bayesian machine learning approach. _Journal of Accounting Research_, 48 (5), 1049-1102.
 
-Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). Supervised and unsupervised neural approaches to text readability. _Computational Linguistics_, 47 (1), 141-179.
+Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). Supervised and unsupervised neural approaches to text readability. _Computational Linguistics_, 47 (1), 141-179. <br>
 
 ### 2. Appendix 1: BERT and Others <br>
 
