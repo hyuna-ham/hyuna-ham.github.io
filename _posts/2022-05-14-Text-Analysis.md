@@ -61,7 +61,7 @@ Bochkay, K., Brown, S. V., Leone, A. J., & Tucker, J. W. (2022). Textual analysi
 
 Bochkay, K., Hales, J., & Chava, S. (2020). Hyperbole or reality? Investor response to extreme language in earnings conference calls. _Accounting Review_, 95 (2), 31-60.
 
-Brown, N. C., Crowley, R. M., & Elliott, W. B. (2020). What are you saying? Using topic to detect financial misreporting. _Journal of Accounting Researc_h, 58 (1), 237-291.
+Brown, N. C., Crowley, R. M., & Elliott, W. B. (2020). What are you saying? Using topic to detect financial misreporting. _Journal of Accounting Research_, 58 (1), 237-291.
 
 De Bondt, W. F., & Thaler, R. (1985). Does the stock market overreact? _Journal of finance_, 40 (3), 793-805.
 
