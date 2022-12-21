@@ -83,6 +83,7 @@ Li, F. (2010). The information content of forward‐looking statements in corpor
 
 Martinc, M., Pollak, S., & Robnik-Šikonja, M. (2021). Supervised and unsupervised neural approaches to text readability. _Computational Linguistics_, 47 (1), 141-179. <br>
 
+<br>
 ### 2. Appendix 1: BERT and Others <br>
 
 Bidirectional encoder representations from transformers (BERT) is a pre-trained transfer learning model based on an natural language processing (NLP) model, Transformer (Devlin, Chang, Lee, and Toutanova, 2018). It learns large amounts of objective-free data in an unsupervised pretraining manner and uses them suitably with additional fine-tuning. The following explains BERT’s pre-training process.
