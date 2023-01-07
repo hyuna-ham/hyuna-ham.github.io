@@ -76,36 +76,68 @@ Black, F. & Litterman, R. (1990) Asset Allocation: Combining investor views with
 Bochkay, K., Hales, J., & Chava, S. (2020). Hyperbole or reality? Investor response to extreme language in earnings conference calls. _The Accounting Review_, 95(2), 31-60.
 
 Bochkay, K., Brown, S., Leone, A., & Tucker, J. (2022). Textual Analysis in Accounting: What’s Next? Working Paper.
-Britten‐Jones, M. (1999). The sampling error in estimates of mean‐variance efficient portfolio weights. The Journal of Finance, 54(2), 655-671.
-Calmon, A., Ciocan, F., & Romero, G. (2021). Revenue management with repeated customer interactions. Management Science, 67(5), 2944-2963.
-Capponi, A., Olafsson, S., and Zariphopoulou, T. (2022). Personalized robo-advising: Enhancing investment through client interaction. Management Science,  68(4), 2485-512.
-Chopra, V. & Ziemba, W. (2013). The effect of errors in means, variances, and covariances on optimal portfolio choice, in Handbook of the Fundamentals of Financial Decision Making: Part I, pp. 365-373.
-Cohn, R., Lewellen, W., Lease, R., & Schlarbaum, G. (1975). Individual investor risk aversion and investment portfolio composition. The Journal of Finance, 30(2), 605-620.
-De Bondt, W. & Thaler, R. (1985). Does the stock market overreact? The Journal of Finance, 40(3), 793-805.
-Døskeland, T. & Kvaerner, J. (2022). Cancer and portfolio choice: Evidence from Norwegian Register Data. Review of Finance, 26(2), 407-442.
-Faig, M. & Shum, P. (2002). Portfolio choice in the presence of personal illiquid projects. The Journal of Finance, 57(1), 303-328.
-Feldman, R., Govindaraj, S., Livnat, J., & Segal, B. (2010). Management’s tone change, post earnings announcement drift and accruals. Review of Accounting Studies, 15(4), 915-953.
-Filbeck, G., Hatfield, P., & Horvath, P. (2005). Risk aversion and personality type. The Journal of Behavioral Finance, 6(4), 170-180.
-Foerster, S., Linnainmaa, J., Melze, B., & Previtero, A. (2017). Retail financial advice: Does one size fit all? The Journal of Finance, 72(4), 1441-1482.
-Grable, J. (2008). Risk tolerance, in Handbook of Consumer Finance Research, New York: Springer, pp. 3-19.
-Gu, S., Kelly, B., & Xiu, D. (2020). Empirical asset pricing via machine learning. The Review of Financial Studies, 33(5), 2223-2273.
-Ham, H., Ryu, D., & Webb, R. (2022). The effects of overnight events on daytime trading sessions. International Review of Financial Analysis, 102228.
-Hartmann, J., Heitmann, M., Siebert, C., & Schamp, C. (2022). More than a feeling: Accuracy and application of sentiment analysis. International Journal of Research in Marketing. https://doi.org/10.1016/j.ijresmar.2022.05.005
-Hathaway, B., Emadi, S., & Deshpande, V. (2022). Personalized priority policies in call centers using past customer interaction information. Management Science, 68(4), 2806-2823.
-Ingram, R. & Frazier, K. (1983). Narrative disclosures in annual reports*, Journal of Business Research, 11(1), 49-60.
-Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. The Journal of Finance, 58(4), 1651-1683.
-Kimball, M., Shapiro, M, Shumway, T., & Zhang, J. (2020). Portfolio rebalancing in general equilibrium. Journal of Financial Economics, 135(3), 816-834. 
-Kothari, S., Li, X., & Short, J. (2009). The effect of disclosures by management, analysts, and business press on cost of capital, return volatility, and analyst forecasts: A study using content analysis. The Accounting Review, 84(5), 1639-1670.
-Kumar, A., Page, J., & Spalt, O. (2011). Religious beliefs, gambling attitudes, and financial market outcomes. Journal of Financial Economics, 102(3), 671-708.
-Latané, H.  (1960). Individual risk preference in portfolio selection. The Journal of Finance, 15(1), 45-52.
-Ledoit, O., & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. Journal of empirical finance, 10(5), 603-621.
-Lopez, C.J., Babcic, S., & De La Ossa, A. (2015). Advice goes virtual: how new digital investment services are changing the wealth management landscape. Journal of Financial Perspectives, 3(3).
-Madhavan, A. (2000). Market microstructure: A survey. Journal of Financial Markets, 3(3), 205-258.
-Markowitz, H. (1952). Portfolio selection. The Journal of Finance, 7(1), 77-91.
-Masters, S. (2003). Rebalancing. The Journal of Portfolio Management, 29(3), 52-57.
-Michaud, R. (1989). The Markowitz Optimization Enigma: Is ‘optimized’ optimal? Financial Analysts Journal, 45(1), 31-42.
-O’hara, M. (2015). High frequency market microstructure. Journal of Financial Economics, 116(2), 257-270.
-Rosen, H. & Wu, S. (2004). Portfolio choice and health status. Journal of Financial Economics, 72(3), 457-484.
-Sironi, P. (2016). FinTech innovation: from robo-advisors to goal based investing and gamification. John Wiley & Sons.
-Sun, W., Fan, A., Chen, L., Schouwenaars, T., & Albota, M. (2006). Optimal rebalancing for institutional portfolios. The Journal of Portfolio Management, 3(2), 33-43.
-Tsoukalas, G., Wang, J., & Giesecke, K. (2019). Dynamic portfolio execution. Management Science, 65(5), 2015-2040.
+Britten‐Jones, M. (1999). The sampling error in estimates of mean‐variance efficient portfolio weights. _Journal of Finance_, 54(2), 655-671.
+
+Calmon, A., Ciocan, F., & Romero, G. (2021). Revenue management with repeated customer interactions. _Management Science_, 67(5), 2944-2963.
+
+Capponi, A., Olafsson, S., and Zariphopoulou, T. (2022). Personalized robo-advising: Enhancing investment through client interaction. _Management Science_,  68(4), 2485-512.
+
+Chopra, V. & Ziemba, W. (2013). The effect of errors in means, variances, and covariances on optimal portfolio choice, _Handbook of the Fundamentals of Financial Decision Making: Part I_, pp. 365-373.
+
+Cohn, R., Lewellen, W., Lease, R., & Schlarbaum, G. (1975). Individual investor risk aversion and investment portfolio composition. _Journal of Finance_, 30(2), 605-620.
+
+De Bondt, W. & Thaler, R. (1985). Does the stock market overreact? _Journal of Finance_, 40(3), 793-805.
+
+Døskeland, T. & Kvaerner, J. (2022). Cancer and portfolio choice: Evidence from Norwegian Register Data. _Review of Finance_, 26(2), 407-442.
+
+Faig, M. & Shum, P. (2002). Portfolio choice in the presence of personal illiquid projects. _Journal of Finance_, 57(1), 303-328.
+
+Feldman, R., Govindaraj, S., Livnat, J., & Segal, B. (2010). Management’s tone change, post earnings announcement drift and accruals. _Review of Accounting Studies_, 15(4), 915-953.
+
+Filbeck, G., Hatfield, P., & Horvath, P. (2005). Risk aversion and personality type. _Journal of Behavioral Finance_, 6(4), 170-180.
+
+Foerster, S., Linnainmaa, J., Melze, B., & Previtero, A. (2017). Retail financial advice: Does one size fit all? _Journal of Finance_, 72(4), 1441-1482.
+
+Grable, J. (2008). Risk tolerance, _Handbook of Consumer Finance Research, New York: Springer_, pp. 3-19.
+
+Gu, S., Kelly, B., & Xiu, D. (2020). Empirical asset pricing via machine learning. _Review of Financial Studies_, 33(5), 2223-2273.
+
+Ham, H., Ryu, D., & Webb, R. (2022). The effects of overnight events on daytime trading sessions. _International Review of Financial Analysis_, 102228.
+
+Hartmann, J., Heitmann, M., Siebert, C., & Schamp, C. (2022). More than a feeling: Accuracy and application of sentiment analysis. _International Journal of Research in Marketing_. https://doi.org/10.1016/j.ijresmar.2022.05.005
+
+Hathaway, B., Emadi, S., & Deshpande, V. (2022). Personalized priority policies in call centers using past customer interaction information. _Management Science_, 68(4), 2806-2823.
+
+Ingram, R. & Frazier, K. (1983). Narrative disclosures in annual reports, _Journal of Business Research_, 11(1), 49-60.
+
+Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. _Journal of Finance_, 58(4), 1651-1683.
+
+Kimball, M., Shapiro, M, Shumway, T., & Zhang, J. (2020). Portfolio rebalancing in general equilibrium. _Journal of Financial Economics_, 135(3), 816-834. 
+
+Kothari, S., Li, X., & Short, J. (2009). The effect of disclosures by management, analysts, and business press on cost of capital, return volatility, and analyst forecasts: A study using content analysis. _The Accounting Review_, 84(5), 1639-1670.
+
+Kumar, A., Page, J., & Spalt, O. (2011). Religious beliefs, gambling attitudes, and financial market outcomes. _Journal of Financial Economics_, 102(3), 671-708.
+
+Latané, H.  (1960). Individual risk preference in portfolio selection. _Journal of Finance_, 15(1), 45-52.
+
+Ledoit, O., & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. _Journal of Empirical Finance_, 10(5), 603-621.
+
+Lopez, C.J., Babcic, S., & De La Ossa, A. (2015). Advice goes virtual: how new digital investment services are changing the wealth management landscape. _Journal of Financial Perspectives_, 3(3).
+
+Madhavan, A. (2000). Market microstructure: A survey. _Journal of Financial Markets_, 3(3), 205-258.
+
+Markowitz, H. (1952). Portfolio selection. _Journal of Finance_, 7(1), 77-91.
+
+Masters, S. (2003). Rebalancing. _Journal of Portfolio Management_, 29(3), 52-57.
+
+Michaud, R. (1989). The Markowitz Optimization Enigma: Is ‘optimized’ optimal? _Financial Analysts Journal_, 45(1), 31-42.
+
+O’hara, M. (2015). High frequency market microstructure. _Journal of Financial Economics_, 116(2), 257-270.
+
+Rosen, H. & Wu, S. (2004). Portfolio choice and health status. _Journal of Financial Economics_, 72(3), 457-484.
+
+Sironi, P. (2016). _FinTech innovation: from robo-advisors to goal based investing and gamification._ John Wiley & Sons.
+
+Sun, W., Fan, A., Chen, L., Schouwenaars, T., & Albota, M. (2006). Optimal rebalancing for institutional portfolios. _Journal of Portfolio Management_, 3(2), 33-43.
+
+Tsoukalas, G., Wang, J., & Giesecke, K. (2019). Dynamic portfolio execution. _Management Science_, 65(5), 2015-2040.
