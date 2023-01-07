@@ -2,9 +2,9 @@
 layout: post
 title: Robo-Advisors 
 subtitle: What's Next?
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/esg.png
-share-img: /assets/img/esg.png
+cover-img: /assets/img/ai.jpeg
+thumbnail-img: /assets/img/robo.jpg
+share-img: /assets/img/esg.jpg
 ---
 
 ### 1. Introduction <br>
@@ -17,13 +17,18 @@ Robo-advisor services are composed of several processes, as shown in Figure 2. A
 
 Figure 2
 
+
 ### 2. Individual Risk Tolerance <br>
 
 Foerster, Linnainmaa, Melze and Previtero (2017) showed that financial advisors exert considerable influence over customers’ asset allocations but have limitations in providing customized services. As personalization is key for robo-advisors, understanding individual risk tolerance is essential. 
+
 Risk tolerance is the maximum degree of uncertainty that an individual is willing to accept when making financial decisions (Grable, 2008). It is a critical factor for individual customers when making various financial decisions as well as a key intrinsic variable in financial planning, investment suitability analysis, and customer decision-making structures. Financial risk tolerance greatly influences both short- and long-term financial decisions, such as purchasing decisions and saving for retirement. However, robo-advisors identify the risk tolerance of investors through one-size-fits-all questionnaires, which are too simple and do not always provide a comprehensive overview of a client’s financial situation and characteristics. Hence, they are limited in understanding the customers’ tendencies.
+
 Noting its importance, economists have long conducted studies to understand individual risk tolerance (Latané, 1960; Cohn, Lease, and Schlarbaum, 1975). For example, Faig and Shum (2002) found that customers' individual projects, such as starting businesses or purchasing houses, influence their individual investment portfolio choices. Filbeck, Hatfield and Horvath (2005) analyzed the relationship between an investor’s personality and their risk tolerance. Additionally, Kumar, Page and Spalt (2011) showed that religious beliefs can influence individual investment portfolio choices.
+
 Additionally, poor health can affect various factors that may impact portfolio composition, including the utility of consumption, risk aversion, and labor returns (Rosen and Wu, 2004). Hence, health status is also an important factor in understanding individual risk tolerance. Despite this importance, research on the effects of an individual's health status on their independent risk tolerance has only relatively recently begun to draw attention. For example, Addoum, Korniotis and Kumar (2017) revealed that height and obesity influence the portfolio choices of investors, and Døskeland and Kvaerner (2022) showed that a history of cancer diagnosis increases risk aversion.
-In this regard, future research challenges relate to individual health and risk tolerance. For example, there might be an association between risk tolerance and environmental diseases, such as rhinitis, asthma, and atopy, the prevalence of which has been rapidly increasing recently due to climate change and environmental change. Patients with environmental diseases are more sensitive to the weather; Bassi, Colacito and Fulghieri (2013) showed that weather affects individual risk tolerance. In addition, since these diseases are chronic and require funds for continuous treatment and management, a significant relationship may exist between investment style and the presence or absence of disease. As such, efforts are required to study individual risk tolerance from more varied perspectives.
+
+In this regard, future research challenges relate to individual health and risk tolerance. For example, there might be an association between risk tolerance and environmental diseases, such as rhinitis, asthma, and atopy, the prevalence of which has been rapidly increasing recently due to climate change and environmental change. Patients with environmental diseases are more sensitive to the weather; Bassi, Colacito and Fulghieri (2013) showed that weather affects individual risk tolerance. In addition, since these diseases are chronic and require funds for continuous treatment and management, a significant relationship may exist between investment style and the presence or absence of disease. As such, efforts are required to study individual risk tolerance from more varied perspectives. <br>
 
 ### 3. Portfolio <br>
 
@@ -56,8 +61,11 @@ Another approach is behavioral finance, or applying psychology to financial phen
 
 
 ### References
-Addoum, J., Korniotis, G., & Kumar, A. (2017). Stature, obesity, and portfolio choice. Management Science, 63(10), 3393-3413.
-Ban, G., El Karoui, N., & Lim, A. (2018), Machine learning and portfolio optimization. Management Science, 64(3), 1136-1154.
+
+Addoum, J., Korniotis, G., & Kumar, A. (2017). Stature, obesity, and portfolio choice. _Management Science_, 63(10), 3393-3413.
+
+Ban, G., El Karoui, N., & Lim, A. (2018), Machine learning and portfolio optimization. _Management Science_, 64(3), 1136-1154.
+
 Barberis, N. & Thaler, R. (2003). A survey of behavioral finance, in Handbook of the Economics of Finance, Vol. 1, pp. 1053-1128.
 Bassi, A., Colacito, R. & Fulghieri, P. (2013). O sole mio: An experimental analysis of weather and risk attitudes in financial decisions. The Review of Financial Studies, 26(7), 1824-1852.
 Best, M. & Grauer, R. (1991) On the sensitivity of mean-variance-efficient portfolios to changes in asset means: Some analytical and computational results. The Review of Financial Studies, 4(2), 315-342.
