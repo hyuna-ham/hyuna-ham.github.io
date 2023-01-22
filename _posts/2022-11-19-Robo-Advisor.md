@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robo-Advisors 
-subtitle: What's Next?
+subtitle: What's next?
 cover-img: /assets/img/ai.jpeg
 thumbnail-img: /assets/img/robo.jpg
 share-img: /assets/img/esg.jpg
