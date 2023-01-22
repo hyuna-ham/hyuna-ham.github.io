@@ -2,7 +2,7 @@
 layout: post
 title: Rebalancing 
 subtitle: Optimal rebalancing using deep reinforcement learning
-cover-img: /assets/img/chart.jpg
+cover-img: /assets/img/rebalance.jpg
 thumbnail-img: /assets/img/rebalancing.png
 share-img: /assets/img/rebalancing.png
 ---
