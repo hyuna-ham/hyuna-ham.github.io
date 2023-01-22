@@ -23,26 +23,26 @@ Therefore, this study suggests the soft actor-critic (SAC) model (Haarnoja et al
 
 
 ### References
-Bellman, R. 1952. On the theory of dynamic programming. _Proceedings of the National Academy of Sciences_, 38, 716-719. https://doi.org/10.1073/pnas.38.8.716 
+Bellman, R (1952). On the theory of dynamic programming. _Proceedings of the National Academy of Sciences_, 38, 716-719. https://doi.org/10.1073/pnas.38.8.716 
 
-Busoniu, L., Babuska, R., De Schutter, B., Ernst, D. 2017. Reinforcement Learning and Dynamic Programming using Function Approximators. CRC Press, Boca Raton, Florida. https://doi.org/10.1201/9781439821091
+Busoniu, L., Babuska, R., De Schutter, B., & Ernst, D. (2017). Reinforcement Learning and Dynamic Programming using Function Approximators. CRC Press, Boca Raton, Florida. https://doi.org/10.1201/9781439821091
 
-Donohue, C., Yip, K. 2003. Optimal portfolio rebalancing with transaction costs. _Journal of Portfolio Management_, 29, 49-63. https://doi.org/10.3905/jpm.2003.319894 
+Donohue, C., & Yip, K. (2003). Optimal portfolio rebalancing with transaction costs. _Journal of Portfolio Management_, 29, 49-63. https://doi.org/10.3905/jpm.2003.319894 
 
-Haarnoja, T., Zhou, A., Hartikainen, K., Tucker., G., Ha., S., Tan, J., Kumar, V., Zhu, H., Gupta, A., Abbeel, P., Levine, S. 2018. Soft actor-critic algorithms and applications. arXiv preprint arXiv:1812.05905
+Haarnoja, T., Zhou, A., Hartikainen, K., Tucker., G., Ha., S., Tan, J., Kumar, V., Zhu, H., Gupta, A., Abbeel, P., & Levine, S. (2018). Soft actor-critic algorithms and applications. _arXiv preprint_ arXiv:1812.05905
 
-Lim, Q.U.E., Cao, Q., Quek, C 2022. Dynamic portfolio rebalancing through reinforcement learning. _Neural Computing and Applications_, 34, 7125-7139. https://doi.org/10.1007/s00521-021-06853-3 
+Lim, Q.U.E., Cao, Q., & Quek, C (2022). Dynamic portfolio rebalancing through reinforcement learning. _Neural Computing and Applications_, 34, 7125-7139. https://doi.org/10.1007/s00521-021-06853-3 
 
-Luce , R.D. 2000. Utility of Gains and Losses: Measurement-theoretical and Experimental Approaches. Lawrence Erlbaum Associates, Mahwah, New Jersey.
+Luce , R.D. (2000). Utility of Gains and Losses: Measurement-theoretical and Experimental Approaches. Lawrence Erlbaum Associates, Mahwah, New Jersey.
 
-Markowitz, H.M., Todd, G.P. 2000. Mean-variance Analysis in Portfolio Choice and Capital Markets. _John Wiley & Sons_, Hoboken, New Jersey.
+Markowitz, H.M., & Todd, G.P. (2000). Mean-variance Analysis in Portfolio Choice and Capital Markets. _John Wiley & Sons_, Hoboken, New Jersey.
 
-Masters, S.J. 2003. Rebalancing. _Journal of Portfolio Management_, 29, 52-57. https://doi.org/10.3905/jpm.2003.319883 
+Masters, S.J. (2003). Rebalancing. _Journal of Portfolio Management_, 29, 52-57. https://doi.org/10.3905/jpm.2003.319883 
 
-Mnih, V., Koray, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., Riedmiller, M. 2013. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
+Mnih, V., Koray, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). Playing atari with deep reinforcement learning. _arXiv preprint_ arXiv:1312.5602.
 
-Sun, W., Fan, A., Chen, L., Schouwenaars, T., Albota, M. 2006. Optimal rebalancing for institutional portfolios. _Journal of Portfolio Management_, 32, 33-43. https://doi.org/10.3905/jpm.2006.611801 
+Sun, W., Fan, A., Chen, L., Schouwenaars, T., Albota, M. (2006). Optimal rebalancing for institutional portfolios. _Journal of Portfolio Management_, 32, 33-43. https://doi.org/10.3905/jpm.2006.611801 
 
-Tang, H., Haarnoja, T. 2017. Learning diverse skills via maximum entropy deep reinforcement learning. https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning
+Tang, H., & Haarnoja, T. (2017). Learning diverse skills via maximum entropy deep reinforcement learning. https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning
 
-White III, C.C., White, D.J. 1989. Markov decision processes. _European Journal of Operational Research_, 39, 1-16. https://doi.org/10.1016/0377-2217(89)90348-2
+White III, C.C., White, D.J. (1989). Markov decision processes. _European Journal of Operational Research_, 39, 1-16. https://doi.org/10.1016/0377-2217(89)90348-2
