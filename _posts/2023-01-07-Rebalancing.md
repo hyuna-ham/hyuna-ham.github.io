@@ -22,7 +22,7 @@ Recent studies on DRL applied in the domain of the rebalancing problem include L
 Therefore, this study suggests the soft actor-critic (SAC) model (Haarnoja et al., 2018) for the optimal rebalancing problem. This model can not only overcome the performance-lowering problem because of the data correlation and radical target value changes, it also learns suboptimal information, which provides extra model robustness in a dynamic environment. As a DRL model, SAC has all the advantages of DRL; hence, it serves as a great alternative to the DP model. Furthermore, considering that optimal rebalancing occurs in a dynamically changing stock market, its robustness achieved by learning optimal and suboptimal conditions adds strength in solving this problem. <br>
 
 
-
+<br>
 ### References
 Bellman, R (1952). On the theory of dynamic programming. _Proceedings of the National Academy of Sciences_, 38, 716-719. https://doi.org/10.1073/pnas.38.8.716 
 
