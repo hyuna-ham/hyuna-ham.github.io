@@ -3,8 +3,8 @@ layout: post
 title: Rebalancing 
 subtitle: Optimal rebalancing using deep reinforcement learning
 cover-img: /assets/img/rebalance.jpg
-thumbnail-img: /assets/img/rebalancing.png
-share-img: /assets/img/rebalancing.png
+thumbnail-img: /assets/img/rebalancing.jpg
+share-img: /assets/img/rebalancing.jpg
 ---
 
 Mean-variance optimization (MVO) (Markowitz and Todd, 2000) is a representative model for creating an optimal target portfolio by maximizing the return/risk ratio. In this optimization process, MVO considers individual risk preferences. However, once investors derive their optimal target portfolio, maintaining the balance between assets is a non-trivial task. Managers need active portfolio rebalancing considering the expected returns of the asset classes in the portfolio and the changing nature of the risk profile. One of the major factors that influences the rebalancing decision is transaction costs, including commissions, market impact, personnel costs, and technological resources. If transaction costs are greater than the expected return of the rebalanced portfolio, then no adjustment should be undertaken.
